@@ -1,0 +1,7 @@
+D:\MyCode\githubCode\DesignPattern.Samples.CSharp\EDC.DesignPattern.SimpleFactory\bin\Debug\EDC.DesignPattern.SimpleFactory.exe.config
+D:\MyCode\githubCode\DesignPattern.Samples.CSharp\EDC.DesignPattern.SimpleFactory\bin\Debug\EDC.DesignPattern.SimpleFactory.exe
+D:\MyCode\githubCode\DesignPattern.Samples.CSharp\EDC.DesignPattern.SimpleFactory\bin\Debug\EDC.DesignPattern.SimpleFactory.pdb
+D:\MyCode\githubCode\DesignPattern.Samples.CSharp\EDC.DesignPattern.SimpleFactory\obj\Debug\EDC.DesignPattern.SimpleFactory.csproj.SuggestedBindingRedirects.cache
+D:\MyCode\githubCode\DesignPattern.Samples.CSharp\EDC.DesignPattern.SimpleFactory\obj\Debug\EDC.DesignPattern.SimpleFactory.csproj.CoreCompileInputs.cache
+D:\MyCode\githubCode\DesignPattern.Samples.CSharp\EDC.DesignPattern.SimpleFactory\obj\Debug\EDC.DesignPattern.SimpleFactory.exe
+D:\MyCode\githubCode\DesignPattern.Samples.CSharp\EDC.DesignPattern.SimpleFactory\obj\Debug\EDC.DesignPattern.SimpleFactory.pdb

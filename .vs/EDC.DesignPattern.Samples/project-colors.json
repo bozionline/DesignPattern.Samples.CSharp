@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13bf0335-5802-44b9-87e1-1780e7585bed": {
+      "ProjectGuid": "13bf0335-5802-44b9-87e1-1780e7585bed",
+      "DisplayName": "EDC.DesignPattern.AbstractFactory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
